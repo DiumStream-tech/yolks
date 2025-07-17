@@ -35,4 +35,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/DiumStream-tech/games:${{ matrix.game }}
+            ghcr.io/diumstream-tech/games:${{ matrix.game }}
